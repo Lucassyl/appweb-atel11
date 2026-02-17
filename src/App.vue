@@ -8,6 +8,7 @@ import "bootstrap"
   <div class="container">
     <Timeline />
   </div>
+  <div>test</div>
 </template>
 
 <style scoped>
